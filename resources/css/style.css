@@ -1,0 +1,6 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; /* You can adjust this as per your need */
+}
